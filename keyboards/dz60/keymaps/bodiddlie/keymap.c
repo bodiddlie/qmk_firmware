@@ -1,8 +1,8 @@
 #include QMK_KEYBOARD_H
 #include "dz60.h"
 
-#define _BASE 1
-#define _FN   2
+#define _BASE 0
+#define _FN   1
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
