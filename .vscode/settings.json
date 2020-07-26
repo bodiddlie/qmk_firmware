@@ -21,5 +21,24 @@
     "[markdown]": {
         "editor.trimAutoWhitespace": false,
         "files.trimTrailingWhitespace": false
-    }
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#c560cb",
+        "activityBar.activeBorder": "#d0ca6f",
+        "activityBar.background": "#c560cb",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#d0ca6f",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#b43dbb",
+        "statusBar.border": "#b43dbb",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#c560cb",
+        "titleBar.activeBackground": "#b43dbb",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.border": "#b43dbb",
+        "titleBar.inactiveBackground": "#b43dbb99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#b43dbb"
 }
